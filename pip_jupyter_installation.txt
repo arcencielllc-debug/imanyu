@@ -1,0 +1,39 @@
+python -m pip install jupyter
+
+
+C:\Users\jsekine\AppData\Local\Microsoft\WindowsApps\
+
+
+C:\Users\jsekine\Anaconda3\get-pip.py
+
+
+python3 get-pip.py
+
+python get-pip.py
+
+C:\Users\jsekine\AppData\Local\Programs\Python\Python310\
+
+
+SLSCMBVNWESUZJS
+
+
+tsdiscon
+
+pip install jupyter
+
+
+sudo apt install python3-pip
+
+
+pip install ipykernel
+
+pip install jupyterlab
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+python get-pip.py
+
+
+python -m pip install jupyter
+
+python -m pip install ipykernel
